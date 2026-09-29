@@ -1,2 +1,3 @@
 # Exempt the following
 *.css
+/dir2
