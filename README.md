@@ -1,1 +1,2 @@
-ADDING THE READ ME FILE
+#ADDING THE READ ME FILE
+This is my hello App
